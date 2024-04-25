@@ -1,0 +1,28 @@
+.mainrow{
+    height: 100vh !important;
+    color: whitesmoke;
+}
+.dashboard{
+    background: linear-gradient(rgb(80, 213, 250),rgb(255, 197, 7));
+    height: 30rem;
+    border-radius: 2%;
+}
+.search input{
+      height: 3rem;
+      width: 17rem;
+      border-radius: 20px;
+      border: none;
+      text-align: center;
+}
+button{
+    height: 2.8rem;
+    width: 3.3rem;
+    border-radius: 50% !important;
+    background-color: whitesmoke !important;
+}
+
+h1{
+    font-size: xx-large;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
